@@ -1,8 +1,6 @@
 <div align="center">
       <h1> <img src="dashboard" width="80px"><br/>Boat Dashboard</h1>
      </div>
-
-
 # Description
 Boat dashboard
 
@@ -19,5 +17,5 @@ This is boat dashboard that helps to control the frontend of boat store
 | ----------- | ----------- |
 ### Note:
 You only need this api in strapi that helps to save order into your strapi dashboard you'll get this from stripe payment website all the things you will get automatically when you make iniselise strapi.
-<!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
+
     
